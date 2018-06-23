@@ -18,7 +18,7 @@ public class AccountPlayground {
     }
 
 
-        @Test
+    @Test
     public void printBalancesForDifferentAccounts() {
         Account a1 = new Account();
         Account a2 = new Account(200);
